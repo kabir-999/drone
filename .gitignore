@@ -1,0 +1,6 @@
+TRAINING/data.npz
+TRAINING/tight.npz
+TRAINING/*.log
+*.mp4
+.DS_Store
+TRAINING/
